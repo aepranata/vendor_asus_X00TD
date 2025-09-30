@@ -1,23 +1,15 @@
-Proprietary Vendor Blobs for Asus Snapdragon™ 660 Devices(msm-4.19)
-======================================================================
+Proprietary Vendor Blobs for Asus Zenfome Max Pro M1
+====================================================
 
 Basic   | Spec Sheet
 -------:|:----------
 CPU     | Quad-core 1.84 GHz Qualcomm Kryo 260 LP
-CPU     | Quad-core 2.20 GHz Qualcomm Kryo 260 HP
 Chipset | Qualcomm Snapdragon 636/660, SDM636, SDM660
 GPU     | Adreno 509/512
 ROM     | 32/64GB
 RAM     | 3/4GB
 Android | 11(R)-Further
 Kernel  | 4.19.xxx
-
-## Currently Supported Devices
-
-```
-- Asus Zenfone Max Pro M1 (X00T, XOOTD, ASUS_X00TD)
-- Asus Zenfone Max Pro M2 (X01BD, X01BDA, ASUS_X01BD)
-```
 
 ## Copyright
 

@@ -4,8 +4,8 @@
 
 soong_namespace {
     imports: [
-        "device/asus/sdm660-common",
-        "device/asus/sdm660-common/qcom-caf",
+        "device/asus/X00TD",
+        "device/asus/X00TD/qcom-caf",
         "hardware/qcom-caf/wlan",
         "vendor/qcom/opensource/dataservices",
     ],
